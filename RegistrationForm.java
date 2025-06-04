@@ -1,5 +1,5 @@
-//exe Commands:
-//cd "C:\Users\Jatin Joshi\Desktop"
+//execution Commands:
+//cd " *Replace with your File Directory parh* "
 //javac RegistrationForm.java
 //java -cp ".; *Replace this with your path of mysql-connector-j-9.3.0.jar*" RegistrationForm
 
