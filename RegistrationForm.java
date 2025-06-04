@@ -26,7 +26,7 @@ public class RegistrationForm extends JFrame {
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/ registration_db";
     private static final String DB_USER = "jatin";   //Replace it with your user
-    private static final String DB_PASSWORD = "jatin9527";  //Replaceit with your Password
+    private static final String DB_PASSWORD = "jatin9527";  //Replace it with your Password
 
     public RegistrationForm() {
         setTitle("Registration Form");
