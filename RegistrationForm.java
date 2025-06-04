@@ -1,7 +1,7 @@
 //execution Commands:
-//cd " *Replace with your File Directory parh* "
+//cd " *Replace with your File Directory path* "
 //javac RegistrationForm.java
-//java -cp ".; *Replace this with your path of mysql-connector-j-9.3.0.jar*" RegistrationForm
+//java -cp ".; *Replace this with your path of mysql-connector.jar*" RegistrationForm
 
 import java.awt.*;
 import java.awt.event.*;
